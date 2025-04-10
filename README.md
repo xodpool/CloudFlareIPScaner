@@ -17,7 +17,7 @@ CloudFlare IP Scanner - это программа для сканировани�
 2. Скачайте исходный код.
 
    ```sh
-    git clone https://github.com/nxhack/CloudFlareIPScanner.git
+    git clone https://github.com/xoodpool/CloudFlareIPScanner.git
     cd CloudFlareIPScanner
    ```
 
